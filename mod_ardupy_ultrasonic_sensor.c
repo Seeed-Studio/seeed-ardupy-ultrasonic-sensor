@@ -1,9 +1,9 @@
 /**
  * The MIT License (MIT)
  *
- * Author: PowerfulCat (x4495@outlook.com)
+ * Author: Baozhu Zuo (zuobaozhu@gmail.com)
  *
- * Copyright (C) 2019  Seeed Technology Co.,Ltd.
+ * Copyright (C) 2020  Seeed Technology Co.,Ltd.
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
