@@ -59,10 +59,12 @@ void ultra_ranger_obj_attr(mp_obj_t self_in, qstr attr, mp_obj_t *dest){
     if (dest[0] == MP_OBJ_NULL){
         if (attr == MP_QSTR_cm) {
             value = common_hal_ultra_ranger_centimeters(self);
+            dest[0] = mp_obj_new_int(value);
             return;
         }
         else if (attr == MP_QSTR_inch){
             value = common_hal_ultra_ranger_inches(self);
+            dest[0] = mp_obj_new_int(value);
             return;
         }
     }
