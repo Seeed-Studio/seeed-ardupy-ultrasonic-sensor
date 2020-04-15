@@ -1,0 +1,8 @@
+{
+    "name": "Seeed ArduPy Ultrasonic Sensor ",
+    "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Seeed-Studio/seeed-ardupy-ultrasonic-sensor.git"
+    }
+}
