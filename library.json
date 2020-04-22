@@ -4,5 +4,9 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/Seeed-Studio/seeed-ardupy-ultrasonic-sensor.git"
-    }
+    },
+    "dependencies": [{
+        "name": "Seeed_Arduino_UltrasonicSensor",
+        "url": "https://github.com/Seeed-Studio/Grove_Ultrasonic_Ranger.git"
+    }]
 }
