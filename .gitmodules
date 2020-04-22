@@ -1,3 +1,0 @@
-[submodule "Seeed_Arduino_UltrasonicSensor"]
-	path = Seeed_Arduino_UltrasonicSensor
-	url = https://github.com/Seeed-Studio/Grove_Ultrasonic_Ranger
